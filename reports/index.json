@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260717-191225-sy3t",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "dateStart": "2026-07-18T02:12:25.000Z",
+      "dateEnd": "2026-07-18T02:44:34.000Z",
+      "dateLabel": "7/17/2026, 7:12:25 PM - 7/17/2026, 7:44:34 PM",
+      "url": "https://beardgaming108.github.io/gw2wvwlogs/?report=20260717-191225-sy3t",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 39,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260717-191225-8y5y",
       "title": "Get Mesmorized",
       "commanders": [
