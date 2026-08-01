@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260731-191704-x7sa",
+      "title": "Hocus Brocus",
+      "commanders": [
+        "Hocus Brocus"
+      ],
+      "dateStart": "2026-08-01T02:17:04.000Z",
+      "dateEnd": "2026-08-01T02:33:54.000Z",
+      "dateLabel": "7/31/2026, 7:17:04 PM - 7/31/2026, 7:33:54 PM",
+      "url": "https://beardgaming108.github.io/gw2wvwlogs/?report=20260731-191704-x7sa",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 47,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260725-161918-nmuz",
       "title": "Get Mesmorized",
       "commanders": [
