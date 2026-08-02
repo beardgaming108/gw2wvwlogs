@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260801-171944-nf4u",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-08-02T00:19:44.000Z",
+      "dateEnd": "2026-08-02T01:12:44.000Z",
+      "dateLabel": "8/1/2026, 5:19:44 PM - 8/1/2026, 6:12:44 PM",
+      "url": "https://beardgaming108.github.io/gw2wvwlogs/?report=20260801-171944-nf4u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260731-191704-x7sa",
       "title": "Hocus Brocus",
       "commanders": [
