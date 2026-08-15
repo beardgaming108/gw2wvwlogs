@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260814-191303-ilqw",
+      "title": "Purity Of Beard",
+      "commanders": [
+        "Purity Of Beard"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-08-15T02:13:03.000Z",
+      "dateEnd": "2026-08-15T02:46:07.000Z",
+      "dateLabel": "8/14/2026, 7:13:03 PM - 8/14/2026, 7:46:07 PM",
+      "url": "https://beardgaming108.github.io/gw2wvwlogs/?report=20260814-191303-ilqw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260807-191043-2r3e",
       "title": "Purity Of Beard",
       "commanders": [
