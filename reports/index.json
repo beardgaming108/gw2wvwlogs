@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260828-190913-e6nu",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-08-29T02:09:13.000Z",
+      "dateEnd": "2026-08-29T02:39:59.924Z",
+      "dateLabel": "8/28/2026, 7:09:13 PM - 8/28/2026, 7:39:59 PM",
+      "url": "https://beardgaming108.github.io/gw2wvwlogs/?report=20260828-190913-e6nu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 44,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260821-191101-csjj",
       "title": "Get Mesmorized",
       "commanders": [
