@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260904-191011-rg4z",
+      "title": "Wahoop",
+      "commanders": [
+        "Wahoop"
+      ],
+      "guild": {
+        "id": "5D7F8C82-E09D-4788-82F9-41506AA6A4DD",
+        "name": "Wait What How",
+        "tag": "Hek"
+      },
+      "dateStart": "2026-09-05T02:10:11.000Z",
+      "dateEnd": "2026-09-05T02:49:46.604Z",
+      "dateLabel": "9/4/2026, 7:10:11 PM - 9/4/2026, 7:49:46 PM",
+      "url": "https://beardgaming108.github.io/gw2wvwlogs/?report=20260904-191011-rg4z",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260828-190913-mi6t",
       "title": "Get Mesmorized",
       "commanders": [
