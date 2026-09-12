@@ -1,8 +1,36 @@
 {
   "colorPalette": "electric-blue",
-  "glassSurfaces": false,
+  "glassSurfaces": true,
   "glassmorphic": true,
   "entries": [
+    {
+      "id": "20260911-190851-dqwy",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-09-12T02:08:51.000Z",
+      "dateEnd": "2026-09-12T02:30:41.978Z",
+      "dateLabel": "9/11/2026, 7:08:51 PM - 9/11/2026, 7:30:41 PM",
+      "url": "https://beardgaming108.github.io/gw2wvwlogs/?report=20260911-190851-dqwy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 48,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 34
+      }
+    },
     {
       "id": "20260904-191011-rg4z",
       "title": "Wahoop",
