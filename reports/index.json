@@ -1,8 +1,36 @@
 {
   "colorPalette": "electric-blue",
-  "glassSurfaces": true,
+  "glassSurfaces": false,
   "glassmorphic": true,
   "entries": [
+    {
+      "id": "20260918-191715-eev9",
+      "title": "Beard Follicles",
+      "commanders": [
+        "Beard Follicles"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-09-19T02:17:15.000Z",
+      "dateEnd": "2026-09-19T03:55:08.603Z",
+      "dateLabel": "9/18/2026, 7:17:15 PM - 9/18/2026, 8:55:08 PM",
+      "url": "https://beardgaming108.github.io/gw2wvwlogs/?report=20260918-191715-eev9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 36,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 19
+      }
+    },
     {
       "id": "20260912-170845-kgpm",
       "title": "Get Mesmorized",
