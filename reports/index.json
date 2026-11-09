@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261108-170454-533x",
+      "title": "Osprey Shark",
+      "commanders": [
+        "Osprey Shark"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-11-09T01:04:54.000Z",
+      "dateEnd": "2026-11-09T01:49:12.605Z",
+      "dateLabel": "11/8/2026, 5:04:54 PM - 11/8/2026, 5:49:12 PM",
+      "url": "https://beardgaming108.github.io/gw2wvwlogs/?report=20261108-170454-533x",
+      "publishedBy": "beardgaming108",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20261106-182225-4b0b",
       "title": "Get Mesmorized",
       "commanders": [
