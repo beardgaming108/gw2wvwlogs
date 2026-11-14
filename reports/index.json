@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261113-181106-s5iv",
+      "title": "Magics Johnson",
+      "commanders": [
+        "Magics Johnson"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-11-14T02:11:06.000Z",
+      "dateEnd": "2026-11-14T02:52:06.645Z",
+      "dateLabel": "11/13/2026, 6:11:06 PM - 11/13/2026, 6:52:06 PM",
+      "url": "https://beardgaming108.github.io/gw2wvwlogs/?report=20261113-181106-s5iv",
+      "publishedBy": "beardgaming108",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 42,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 22
+      }
+    },
     {
       "id": "20261108-170454-533x",
       "title": "Osprey Shark",
