@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261120-181015-b07v",
+      "title": "Get Mesmorized, Magics Johnson",
+      "commanders": [
+        "Get Mesmorized",
+        "Magics Johnson"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-11-21T02:10:15.000Z",
+      "dateEnd": "2026-11-21T03:01:17.814Z",
+      "dateLabel": "11/20/2026, 6:10:15 PM - 11/20/2026, 7:01:17 PM",
+      "url": "https://beardgaming108.github.io/gw2wvwlogs/?report=20261120-181015-b07v",
+      "publishedBy": "beardgaming108",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 29,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20261114-165544-wup4",
       "title": "Get Mesmorized",
       "commanders": [
